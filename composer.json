@@ -22,8 +22,9 @@
 		}
 	},
 	"require": {
+    "php": "~7.0.0",
 		"ext-gd": "*",
-		"johnpbloch/wordpress": "^4.5",
+		"johnpbloch/wordpress": "^4.6",
 		"wpackagist-plugin/amazon-web-services": "^0.3.4",
 		"wpackagist-plugin/amazon-s3-and-cloudfront": "^0.9.11",
 		"wpackagist-plugin/sendgrid-email-delivery-simplified": "^1.7",
